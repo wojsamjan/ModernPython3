@@ -1,0 +1,14 @@
+human.py				.__dict__
+
+Dog.__mro__
+Dog.mro()
+help(Dog)
+
+__name__
+dir()
+
+
+__repr__
+__str__
+
+special-methods.py		copy()
